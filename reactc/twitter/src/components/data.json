@@ -1,0 +1,49 @@
+[
+    {   "id":1,             
+        "firstname":"Daniela",
+        "lastname":"Abu",
+        "text":"Texto de prueba para determianr la funcionalidaddel componente, y los espam #probandolaWeb ",        
+        "twitter":"dani2000",
+        "email": "q@prueba.com",
+        "picture":"https://scontent.fgua9-1.fna.fbcdn.net/v/t1.0-9/158053158_3897215250358869_4791723447601107010_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=gYEvPmUUM-0AX-uTbOQ&_nc_ht=scontent.fgua9-1.fna&oh=e83204efdf0361da2d6f6123ccfb92c4&oe=607795EE",
+        "time":"59m"
+    },
+    {   "id":2,             
+        "firstname":"Fernando",
+        "lastname":"Lacan",
+        "text":"Toggle floats on any element, across any breakpoint, using our responsive float utilities #float ",        
+        "twitter":"fnlacan",
+        "email": "prueba@gmail.com",
+        "picture":"https://scontent.fgua9-1.fna.fbcdn.net/v/t1.0-9/147603986_3417275555045481_2296309391606255404_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=zCOQZvtk4IcAX_RUzI8&_nc_ht=scontent.fgua9-1.fna&oh=7770e26df2502a9a98e88d8b4ed5fc55&oe=6073ED7F",
+        "time":"2h"
+    },
+    {   "id":3,             
+        "firstname":"Malfredo",
+        "lastname":"Arias",
+        "text":"Diseñe y personalice rápidamente sitios móviles con capacidad de respuesta con Bootstrap, el kit de herramientas de código abierto front-end más popular",        
+        "twitter":"malari0200",
+        "email": "malarias@gmail.com",
+        "picture":"https://scontent.fgua9-1.fna.fbcdn.net/v/t1.0-9/78468369_2343831422389905_4013024593055842304_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=174925&_nc_ohc=lnueBK3HlpIAX_Z1lGR&_nc_ht=scontent.fgua9-1.fna&oh=fccac1e8c1e15f8ae526760bc4659cf0&oe=60753F67",
+        "time":"4h"
+    },
+    
+    {   "id":4,             
+        "firstname":"Allison",
+        "lastname":"Navas",
+        "text":"Los iconos de Bootstrap están diseñados para funcionar mejor con los componentes de Bootstrap.",        
+        "twitter":"Asdfg",
+        "email": "allnavas@hotmail.com",
+        "picture":"https://scontent.fgua9-1.fna.fbcdn.net/v/t1.0-9/147603986_3417275555045481_2296309391606255404_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=zCOQZvtk4IcAX_RUzI8&_nc_ht=scontent.fgua9-1.fna&oh=7770e26df2502a9a98e88d8b4ed5fc55&oe=6073ED7F",
+        "time":"6h"
+    },
+    
+    {   "id":5,             
+        "firstname":"Hostqwerty.com",
+        "lastname":"Kt",
+        "text":"sistema de cuadrícula receptivo, amplios componentes prediseñados y potentes complementos de JavaScript. ",        
+        "twitter":"hotsnet2021",
+        "email": "hostqwery@hostsin.com",
+        "picture":"https://picsum.photos/id/237/200/200",
+        "time":"8h"
+    }
+]
